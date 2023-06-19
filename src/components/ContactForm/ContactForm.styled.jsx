@@ -28,7 +28,7 @@ export const Form = styled.form`
     border: 1px solid rgba(33, 33, 33, 0.2);
     border-radius: 4px;
     padding: 12px 12px;
-    /* transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1); */
+    transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     &:focus {
       border-color: #2196f3;
     }
